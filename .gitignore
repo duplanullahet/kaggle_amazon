@@ -1,0 +1,11 @@
+.DS_Store
+*.csv
+*pycache*
+*.npy
+*.pyc
+*.backup
+*.debug
+argument.py
+train.sh
+data
+leftover*
